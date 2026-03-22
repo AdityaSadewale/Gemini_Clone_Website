@@ -1,13 +1,1 @@
-Here is a professional and comprehensive README.md file tailored for your Gemini Clone project. It highlights the modern "professional" feel you've worked on, the tech stack (React), and the core features.🚀 Gemini Clone - Modern AI InterfaceA sleek, professional-grade clone of the Google Gemini web interface. This project focuses on high-fidelity UI/UX, replicating the "airy" feel, signature gradients, and responsive layout of the original platform using React.js and CSS3.✨ FeaturesPixel-Perfect UI: Replicates the authentic Gemini layout with a fixed sidebar and a responsive main chat area.No-Scroll Layout: Engineered with a "Single-Page Application" (SPA) feel where the navigation and input bars stay fixed while only the content area scrolls.Signature Gradients: Features the iconic "Blue-to-Red" animated gradient greeting text.Smart Search Bar: A floating, rounded input box with modern focus effects, icon integration (Gallery, Mic, Send), and a "pro" shadow system.Dynamic Sidebar: Collapsible navigation menu with smooth transitions and hover states.Interactive Suggestion Cards: Clean, rounded cards for quick-start prompts that respond to user interaction.🛠️ Tech StackFrontend: React.js (Hooks, Functional Components)Styling: Modern CSS3 (Flexbox, Grid, CSS Variables)Assets: SVG Icons & Google Fonts (Google Sans style)Bundler: Vite (Fast HMR and Optimized Build)📸 ScreenshotsDesktop ViewMobile Responsive🚀 Getting StartedFollow these steps to get the project running locally:1. Clone the repositoryBashgit clone https://github.com/AdityaSadewale/Gemini_Clone_Website.git
-2. Navigate to the project directoryBashcd Gemini_Clone_Website
-3. Install dependenciesBashnpm install
-4. Run the development serverBashnpm run dev
-The app will be available at http://localhost:5173.📂 Project StructurePlaintextsrc/
-├── assets/          # Icons and Images
-├── components/
-│   ├── Sidebar/     # Sidebar logic and styles
-│   └── Main/        # Main chat interface and logic
-├── context/         # Context API for state management (optional)
-├── App.jsx          # Root layout and component nesting
-└── main.jsx         # Entry point
-🎨 UI CustomizationsTo maintain the Professional Feel used in this project:Color Palette: #f0f4f9 (Backgrounds), #ffffff (Cards/Main), #4b90ff to #ff5546 (Gradients).Typography: Uses a clean sans-serif stack to mimic "Google Sans."Spacing: Leverages flex: 1 and 100vh to prevent messy absolute positioning.🤝 ContributingContributions are welcome! If you'd like to improve the UI or add functionality (like API integration):Fork the Project.Create your Feature Branch (git checkout -b feature/AmazingFeature).Commit your Changes (git commit -m 'Add some AmazingFeature').Push to the Branch (git push origin feature/AmazingFeature).Open a Pull Request.📄 LicenseDistributed under the MIT License. See LICENSE for more information.Developed with ❤️ by Aditya Sadewale
+

@@ -150,7 +150,8 @@ This project is open-source and available under the MIT License.
 
 ## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
+
+If you like this project, give it a ⭐ on GitHub !
 
 ---
 

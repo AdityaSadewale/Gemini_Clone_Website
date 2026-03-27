@@ -1,5 +1,6 @@
 # 🚀 Gemini Clone Website
 
+
 A modern **Gemini AI Clone Web Application** built using React and the Google Gemini API. This project replicates the core functionality of Google's Gemini AI, providing a clean and interactive chat interface for users.
 
 ---

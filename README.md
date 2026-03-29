@@ -84,7 +84,6 @@ npm run dev
 ### 6️⃣ Open in browser
 
 ```
-http://localhost:5173/
 ```
 
 ---

@@ -86,14 +86,6 @@ npm run dev
 ```
 ```
 
----
-
-## 📸 Screenshots
-
-*(Add screenshots of your UI here)*
-
----
-
 ## 📂 Project Structure
 
 ```

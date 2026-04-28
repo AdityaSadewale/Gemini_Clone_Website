@@ -42,7 +42,6 @@ This project is ideal for learning:
 
 * Vite (for fast development)
 * Gemini API (Google Generative AI)
-
 ---
 
 ## ⚙️ Installation & Setup

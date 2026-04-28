@@ -87,6 +87,7 @@ npm run dev
 
 ## 📂 Project Structure
 
+
 ```
 Gemini_Clone_Website/
 │── public/

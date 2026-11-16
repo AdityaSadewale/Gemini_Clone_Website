@@ -33,6 +33,7 @@ const Sidebar = () => {
         )}
       </div>
 
+      
       <div className="bottom">
         <div className="bottom-item recent-entry">
           <img src={assets.question_icon} alt="Help" />
